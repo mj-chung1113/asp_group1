@@ -109,101 +109,189 @@
   <!-- Environment -->
 
 
-  <include>
-    <uri>model://oak_tree</uri>
-    <name>Pine Tree_11</name>
-    <pose>-116.10299682617188 38.025035858154297 -0.39117199182510376 0 0 0</pose>
-  </include>
+
 
   <include>
     <uri>model://tunnel_wall_debris</uri>
-    <name>tunnelblocker</name>
-    <pose>-121.29428100585936 66.510223388671861 0 0 0 -1.1310601126575641</pose>
-  </include>
-  <include>
-    <uri>model://collapsed_house</uri>
-    <name>collapsed_house</name>
-    <pose>-90.841094970703125 68.500579833984375 0 0 0 0.46391099648611439</pose>
-  </include>
-  <include>
-    <uri>model://collapsed_industrial_building</uri>
-    <name>collapsed_industrial</name>
-    <pose>-101.57592010498047 100.67900085449219 0 0 0 0</pose>
+    <name>tunnelblocker_1</name>
+    <pose>-104.06036376953124 92.897933959960938 0 0 0 -1.1310601126575641</pose>
   </include>
   <include>
     <uri>model://tunnel_wall_debris</uri>
-    <name>tunnelblocker_1</name>
-    <pose>-110.56652235321143 78.941913668800964 0 0 0 -1.1310601126575641</pose>
+    <name>tunnelblocker_2</name>
+    <pose>-102.47899627685547 68.933799743652344 0 0 0 -1.5641030510939553</pose>
+  </include>
+  <include>
+    <uri>model://tunnel_wall_debris</uri>
+    <name>tunnelblocker_3</name>
+    <pose>-121.70696258544922 67.388877868652344 0 0 0 -1.1310601126575641</pose>
+  </include>
+  <include>
+    <uri>model://tunnel_wall_debris</uri>
+    <name>tunnelblocker_4</name>
+    <pose>-121.66629028320312 78.290420532226548 0 0 0 -1.1310601126575641</pose>
+  </include>
+  <include>
+    <uri>model://tunnel_wall_debris</uri>
+    <name>tunnelblocker_5</name>
+    <pose>-105.78587341308594 86.396354675292969 0 0 0 -1.1310601126575641</pose>
+  </include>
+  <include>
+    <uri>model://tunnel_wall_debris</uri>
+    <name>tunnelblocker_6</name>
+    <pose>-112.32290649414064 67.967514038085938 0 0 0 -1.4245999395024393</pose>
+  </include>
+  <include>
+    <uri>model://tunnel_wall_debris</uri>
+    <name>tunnelblocker_7</name>
+    <pose>-110.60462951660155 79.02187347412108 0 0 0 -1.1310601126575641</pose>
+  </include>
+
+
+
+
+  <include>
+    <uri>model://oak_tree</uri>
+    <name>Pine Tree_1</name>
+    <pose>-124.68502807617188 32.55889892578125 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
     <uri>model://oak_tree</uri>
-    <name>Pine Tree_11_1</name>
-    <pose>-127.29750766040937 39.165208326446148 -0.39117199182510376 0 0 0</pose>
+    <name>Pine Tree_2</name>
+    <pose>-119.93499755859375 43.738719940185547 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
     <uri>model://oak_tree</uri>
-    <name>Pine Tree_11_1_1</name>
-    <pose>-123.86383454523963 48.773939653643282 -0.39117199182510376 0 0 0</pose>
+    <name>Pine Tree_3</name>
+    <pose>-127.51899719238281 36.914157867431641 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
     <uri>model://oak_tree</uri>
-    <name>Pine Tree_11_1_1_1</name>
-    <pose>-135.45842293342218 51.251217244356972 -0.39117199182510376 0 0 0</pose>
+    <name>Pine Tree_4</name>
+    <pose>-123.22463989257812 48.773899078369141 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
     <uri>model://oak_tree</uri>
-    <name>Pine Tree_11_1_1_1_1</name>
-    <pose>-140.56287434005566 60.47746650953615 -0.39117199182510376 0 0 0</pose>
+    <name>Pine Tree_5</name>
+    <pose>-125.7734375 52.308799743652344 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
     <uri>model://oak_tree</uri>
-    <name>Pine Tree_11_1_1_1_2</name>
-    <pose>-127.98692820841411 58.555650340295912 -0.39117199182510376 0 0 0</pose>
+    <name>Pine Tree_6</name>
+    <pose>-133.3800048828125 47.838535308837891 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
     <uri>model://oak_tree</uri>
-    <name>Pine Tree_11_1_2</name>
-    <pose>-132.62172537621748 43.922137491272863 -0.39117199182510376 0 0 0</pose>
+    <name>Pine Tree_7</name>
+    <pose>-135.88046264648438 52.995899200439453 -0.39117199182510376 0 0 0</pose>
   </include>
   <include>
-    <uri>model://collapsed_industrial_building</uri>
-    <name>collapsed_industrial_1</name>
-    <pose>-68.941596616125167 75.23395412637629 0 0 0 0</pose>
+    <uri>model://oak_tree</uri>
+    <name>Pine Tree_8</name>
+    <pose>-127.98699999999999 58.555700000000002 -0.39117200000000002 0 0 0</pose>
   </include>
+  <include>
+    <uri>model://oak_tree</uri>
+    <name>Pine Tree_9</name>
+    <pose>-130.06100463867188 41.716442108154297 -0.39117199182510376 0 0 0</pose>
+  </include>
+  <include>
+    <uri>model://oak_tree</uri>
+    <name>Pine Tree_10</name>
+    <pose>-117.22200012207031 38.572879791259766 -0.39117199182510376 0 0 0</pose>
+  </include>
+
   <include>
     <uri>model://collapsed_house</uri>
     <name>collapsed_house_1</name>
+    <pose>-90.841094970703125 68.500579833984375 0 0 0 0.46391099648611439</pose>
+  </include>
+  <include>
+    <uri>model://collapsed_house</uri>
+    <name>collapsed_house_2</name>
     <pose>-78.520240920172313 112.08927783106779 0 0 0 0.46391099648611439</pose>
   </include>
+
+  <include>
+    <uri>model://collapsed_industrial_building</uri>
+    <name>collapsed_industrial_1</name>
+    <pose>-101.57592010498047 100.67900085449219 0 0 0 0</pose>
+  </include>
+  <include>
+    <uri>model://collapsed_industrial_building</uri>
+    <name>collapsed_industrial_2</name>
+    <pose>-68.941596616125167 75.23395412637629 0 0 0 0</pose>
+  </include>
+
   <include>
     <uri>model://hatchback</uri>
     <name>hatchback_1</name>
-    <pose>-92.855201721191406 80.805572509765625 -0.25 0 0 -1.0832400117537362</pose>
+    <pose>-93.367927551269531 81.772552490234375 -0.25 0 0 -1.0832399888627962</pose>
   </include>
   <include>
     <uri>model://hatchback</uri>
-    <name>hatchback_1_1</name>
-    <pose>-93.750588316376664 89.361577615264679 -0.25 0 0 -1.0832399888627962</pose>
+    <name>hatchback_2</name>
+    <pose>-93.750600000000006 89.361599999999996 -0.25 0 0 -1.08324</pose>
   </include>
   <include>
     <uri>model://hatchback</uri>
-    <name>hatchback_1_1_1</name>
-    <pose>-85.768821716308594 87.842987060546875 -0.25 0 0 0.46520100281854199</pose>
+    <name>hatchback_3</name>
+    <pose>-84.1427001953125 90.985099792480469 -0.25 0 0 -0.69004626772495492</pose>
   </include>
   <include>
     <uri>model://hatchback</uri>
-    <name>hatchback_1_1_1_1</name>
-    <pose>-76.139198303222656 89.1759033203125 -0.25 0 0 0.46021353685902522</pose>
+    <name>hatchback_4</name>
+    <pose>-73.235008239746094 90.077529907226562 -0.25 0 0 0.85590097327418324</pose>
   </include>
   <include>
     <uri>model://hatchback</uri>
-    <name>hatchback_1_1_1_1_1</name>
-    <pose>-71.681495666503906 96.919013977050781 -0.25 0 0 0.44800701766344014</pose>
+    <name>hatchback_5</name>
+    <pose>-71.732048034667969 95.688674926757812 -0.27087399363517761 0 0 1.1705599705900023</pose>
   </include>
   <include>
     <uri>model://hatchback</uri>
-    <name>hatchback_1_1_1_1_1_1</name>
-    <pose>-67.593458142111899 89.905046194063388 -0.25 0 0 0.44800700422847878</pose>
+    <name>hatchback_6</name>
+    <pose>-67.591232299804688 94.202491760253906 -0.25 0 0 0.073252499841569021</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_7</name>
+    <pose>-80.623039245605469 89.981956481933594 -0.25 0 0 0.86705403417065186</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_8</name>
+    <pose>-82.907737731933594 84.373870849609375 -0.25 0 0 0.58181096960976053</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_9</name>
+    <pose>-76.453216552734375 84.517707824707031 -0.25 0 0 3.1046899987022907</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_10</name>
+    <pose>-83.675575256347656 97.957145690917969 -0.25 0 0 0.98629799812906616</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_11</name>
+    <pose>-77.1448974609375 92.172996520996094 -0.25 0 0 -0.039897777919710928</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_12</name>
+    <pose>-76.781417846679688 96.300735473632812 -0.25 0 0 1.1746500326948577</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_13</name>
+    <pose>-67.650558471679688 88.553855895996094 -0.25 0 0 1.0943900068414483</pose>
+  </include>
+  <include>
+    <uri>model://hatchback</uri>
+    <name>hatchback_14</name>
+    <pose>-72.685775756835938 100.93141937255859 -0.25 0 0 1.9803999728523964</pose>
   </include>
 
   </world>
