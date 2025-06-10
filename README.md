@@ -1,4 +1,6 @@
 # Test env of Autonomous Vehicle Platform class of Konkuk Univ.
+The background of mission is UAV-UGV cooperative exploration of collaped city.
+![Sky View](pictures/sky_view.png)
 
 # PX4 Drone Autopilot
 
